@@ -25,5 +25,5 @@ You can set the STUN server by calling
 rtc.SERVER = "STUN stun.l.google.com:19302" and set your server. The default STUN server used by the library is one from google.
 
 
-###授权:
+###  授权
  自由使用, 但不得用于商业用途以及 MIT 协议源码
